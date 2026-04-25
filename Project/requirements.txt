@@ -1,0 +1,7 @@
+easyocr
+opencv-python
+Pillow
+rapidfuzz
+pdf2image
+pandas
+openpyxl

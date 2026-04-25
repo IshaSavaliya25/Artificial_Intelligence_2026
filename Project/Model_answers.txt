@@ -1,0 +1,25 @@
+1. testing
+2. unlabeled
+3. unsupervised
+4. K-means
+5. testing
+6. supervised
+7. Natural Language Processing
+8. rewards
+9. accuracy
+10. neural networks
+11. Artificial Neural Network
+12. neural
+13. training
+14. loss
+15. decision
+16. independent
+17. dependent
+18. Convolutional Neural Network
+19. computer vision
+20. data preprocessing
+21. performance
+22. training
+23. activation
+24. Scikit-learn
+25. learn
